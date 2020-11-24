@@ -1,0 +1,46 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="headText">
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">#0000FF</item>
+        <item name="android:layout_width">225dp</item>
+        <item name="android:layout_height">65dp</item>
+        <item name="android:layout_marginTop">32dp</item>
+    </style>
+
+    <style name="timerText">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:layout_width">128dp</item>
+        <item name="android:layout_height">36dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginStart">64dp</item>
+        <item name="android:layout_marginTop">4dp</item>
+    </style>
+
+    <style name="namesText">
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#0000FF</item>
+        <item name="android:layout_width">114dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="layout_constraintHorizontal_bias">0.519</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">30dp</item>
+    </style>
+
+    <style name="imageViewStyle">
+        <item name="android:layout_width">45dp</item>
+        <item name="android:layout_height">35dp</item>
+        <item name="android:layout_marginStart">92dp</item>
+        <item name="android:layout_marginTop">40dp</item>
+    </style>
+
+</resources>
